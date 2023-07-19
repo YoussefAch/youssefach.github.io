@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2019-2022: Ph.D in Applied Mathematics, Paris-Saclay University, Paris, France.
+  *  Supervisors: Prof. Antoine Cornuéjols & Alexis Bondu.
+* 2018-2019: M.S. in Computer Science, Paul Sabatier University and INP-ENSEEIHT, Toulouse, France.
+* 2016-2019: Engineering degree in Applied mathematics and Computer Science, INP-ENSEEIHT, Toulouse, France.
+* 2014-2016: Preparatory class for the "Grandes écoles", MPSI/MP, CPGE Reda Slaoui, Agadir, Morocco.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2023 - Now: Research scientist at Euranova
+    * Research in the field of generative learning for graphs. 
+    * Contributing to the development of an internal python library for graphs. (Docker, CI/CD, Pytorch)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2019-2022: Research scientist at Orange 
+    * Master thesis and Ph.D with the collaboration of Orange group.
+    * Collaborated with different researchers on the topic of my thesis.
+    * Multiple technical presentations for different teams at Orange group, namely a talk on early decision making in the datacamp which is the largest event gathering data scientists and researchers at Orange.
+    * Defined use cases of early decision-making for Orange group.
+    * Supervised Paul-Emile Zafar from Télécom Paristech for 6 months for his gap year internship.
+    * Implemented from scratch a new python library with novel algorithms during my thesis.
+  * Supervisors: Alexis Bondu & Vincent Lemaire
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
+Fellowships & Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2016-2019: The Merit Scholarship awarded by the OCP Foundation & the Moroccan government. 
+  * It is a scholarship worth 15500€ given to Moroccan students who have joined one of the most prestigious graduate engineering schools "Grandes écoles" in France.
