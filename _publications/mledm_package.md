@@ -11,4 +11,4 @@ citation: 'Renault, A., <b>Achenchabe, Y.</b>, Bertrand, É., Bondu, A., Cornué
 
 ml_edm is a Python 3 library, designed for early decision making of any learning tasks involving temporal/sequential data. The package is also modular, providing researchers an easy way to implement their own triggering strategy for classification, regression or any machine learning task. As of now, many Early Classification of Time Series (ECTS) state-of-the-art algorithms, are efficiently implemented in the library leveraging parallel computation. The syntax follows the one introduce in scikit-learn, making estimators and pipelines compatible with ml_edm. This software is distributed over the BSD-3-Clause license.
 
-[Download here](http://yachench.github.io/files/mledm_package.pdf)
+[Download here](http://youssefach.github.io/files/mledm_package.pdf)
