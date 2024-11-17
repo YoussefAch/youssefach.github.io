@@ -9,6 +9,6 @@ paperurl: 'https://shorturl.at/dtHZ0'
 citation: '<b>Achenchabe, Y.</b> (2022). From the early classification of time series to machine learning-based early decision-making (Doctoral dissertation, Université Paris-Saclay).'
 ---
 
-[Download paper here](https://shorturl.at/dtHZ0)
+[Download here](https://shorturl.at/dtHZ0)
 
 

@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pymlfs"
+excerpt: "New open source python package that implements classic machine learning models from scratch for educational purposes.<br/><img src='/images/pymlfs.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+New open source python package that implements classic machine learning models from scratch for educational purposes.
+
+
+- Available on [Github](https://github.com/YoussefAch/pymlfs)
+- Documentation available [online](https://pymlfs.readthedocs.io/en/latest/autoapi/pymlfs/kmeans/index.html)

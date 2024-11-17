@@ -1,14 +1,15 @@
-# main links links
 main:
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "Projects"
+    url: /portfolio/   
 
   - title: "Publications"
     url: /publications/
-        
-#  - title: "Blog"
-#    url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+
+
     
 
 

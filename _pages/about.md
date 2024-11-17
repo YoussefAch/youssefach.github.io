@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 
-I recently defended my Ph.D. in Machine Learning at Paris-Saclay University and Orange under a CIFRE Contract. I was supervised by <i>Antoine Cornuéjols</i>, professor at AgroParistech, Paris-Saclay University, and <i>Alexis Bondu</i>, research scientist at Orange Labs.
-
-My Ph.D. research was focused on early decision-making in online scenarios. When time series measurements are acquired over time, there can be situations with a trade-off between the earliness and accuracy of decisions. The issue facing the decision makers is that, usually, the longer the decision is delayed, the more precise the likely outcome (e.g. the critical or not critical state of the patient) but also, the higher the cost that will be incurred if only because earlier decisions allow one to be better prepared.
-
-I am currently interested in deep generative models for graphs and their extension to time series networks.
+Data Scientist and MLE with a Ph.D. in Machine Learning and an MSc in High-Performance Computing (HPC), offering over five years of experience leading research and industrial ML projects at Orange and Euranova. An expert in time series analysis and large language models (LLMs), with additional experience in tabular and graph data applied to diverse domains, including conversational chatbots powered by LLMs and RAG, predictive maintenance, demand forecasting, concept drift detection, perturbation-based explainability methods, and scalable synthetic data generation. Authored over eight papers in international conferences and journals and mentored four interns during their master’s thesis internships. A passionate lifelong learner, dedicated to advancing the field of AI while nurturing growth and development in others.
 
 You will find links to my work, social accounts, and e-mail on this page. Feel free to send me a message. I look forward to connecting with you!
