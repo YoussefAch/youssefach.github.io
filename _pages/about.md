@@ -9,6 +9,20 @@ redirect_from:
 ---
 
 
-Data Scientist and MLE with a Ph.D. in Machine Learning and an MSc in High-Performance Computing (HPC), offering over five years of experience leading research and industrial ML projects at Orange and Euranova. An expert in time series analysis and large language models (LLMs), with additional experience in tabular and graph data applied to diverse domains, including conversational chatbots powered by LLMs and RAG, predictive maintenance, demand forecasting, concept drift detection, perturbation-based explainability methods, and scalable synthetic data generation. Authored over eight papers in international conferences and journals and mentored four interns during their master’s thesis internships. A passionate lifelong learner, dedicated to advancing the field of AI while nurturing growth and development in others.
+🎓 **Academic Expertise**\\
+I hold a Ph.D. in Machine Learning and an MSc in Computer Science. My academic foundation equips me to tackle complex AI challenges with a focus on innovation and scalability.
 
-You will find links to my work, social accounts, and e-mail on this page. Feel free to send me a message. I look forward to connecting with you!
+💼 **Professional Experience**\\
+With over five years of experience, I’ve led research and industrial machine learning projects at big companies, including Orange and Thales. My work spans diverse domains, including time series analysis, tabular data, graph data, and large language models (LLMs).
+
+🤖 **Technical Expertise**\\
+I specialize in Time Series Analysis and have experience in LLM-powered chatbots (RAG), predictive maintenance, demand forecasting, concept drift detection, perturbation-based explainability, and scalable synthetic data generation.
+
+📚 **Published Author**\\
+I’ve published more than eight papers in international conferences and journals, contributing to cutting-edge research in AI and ML.
+
+🌱 **Mentor & Lifelong Learner**\\
+I’ve mentored four master’s thesis interns and continuously expand my knowledge to drive growth in AI and others.
+
+📩 **Let’s Connect!**\\
+You’ll find links to my work, social profiles, and email on this page. Feel free to reach out I’d love to connect and collaborate!
