@@ -15,14 +15,14 @@ I specialize in deeply understanding business needs and product constraints such
 
 My approach ranges from developing fast, interpretable baselines to implementing state-of-the-art models informed by cutting-edge research. I am able to bridge the gap between experimentation and delivery translating ambiguous product requirements into scalable, robust systems used in real-world environments.
 
-**Topics of Expertise**
+My areas of expertise and the tools I work with include:
 
-Machine Learning & Deep Learning: Information Retrieval, NLP, time series, embeddings, recommender systems.
+**Machine Learning & Deep Learning:** Information Retrieval, NLP, time series, text embeddings, recommender systems.
 
-Product-Focused ML: System Design, Latency-aware modeling, experimentation frameworks, metrics alignment.
+**Product-Focused ML:** System Design, Latency-aware modeling, experimentation frameworks, metrics alignment.
 
-ML Engineering: Model deployment (batch & real-time), APIs, pipelines, CI/CD, monitoring.
+**ML Engineering:** Model deployment (batch & real-time), APIs, pipelines, CI/CD, monitoring.
 
-Applied Research: Benchmarking, reading & adapting & publishing academic papers / technical blogs, prototyping SOTA methods.
+**Applied Research:** Benchmarking, reading & adapting and publishing academic papers / technical blogs, prototyping SOTA methods.
 
-Tools & Ecosystem: Python, PyTorch/Tensorflow, scikit-learn, Airflow, FastAPI, Docker, MLflow, Spark, AWS.
+**Tools & Ecosystem:** Python, PyTorch/Tensorflow, scikit-learn, Airflow, FastAPI, Docker, MLflow, Spark, AWS.
