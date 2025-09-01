@@ -9,20 +9,20 @@ redirect_from:
 ---
 
 
-🎓 **Academic Expertise**\\
-I hold a Ph.D. in Machine Learning and an MSc in Computer Science. My academic foundation equips me to tackle complex AI challenges with a focus on innovation and scalability.
+👋 Hi, I’m Youssef,  a data scientist with a strong product mindset, currently working in a product-based company where I design and implement end-to-end machine learning solutions that directly impact core features. 
 
-💼 **Professional Experience**\\
-With over five years of experience, I’ve led research and industrial machine learning projects at big companies, including Orange and Thales. My work spans diverse domains, including time series analysis, tabular data, graph data, and large language models (LLMs).
+I specialize in deeply understanding business needs and product constraints such as latency, inference cost, user experience, and scalability to design ML systems that are not just accurate, but also practical, maintainable, and aligned with product strategy. 
 
-🤖 **Technical Expertise**\\
-I specialize in Time Series Analysis and have experience in LLM-powered chatbots (RAG), predictive maintenance, demand forecasting, concept drift detection, perturbation-based explainability, and scalable synthetic data generation.
+My approach ranges from developing fast, interpretable baselines to implementing state-of-the-art models informed by cutting-edge research. I am able to bridge the gap between experimentation and delivery translating ambiguous product requirements into scalable, robust systems used in real-world environments.
 
-📚 **Published Author**\\
-I’ve published more than eight papers in international conferences and journals, contributing to cutting-edge research in AI and ML.
+**Topics of Expertise**
 
-🌱 **Mentor & Lifelong Learner**\\
-I’ve mentored four master’s thesis interns and continuously expand my knowledge to drive growth in AI and others.
+Machine Learning & Deep Learning: Information Retrieval, NLP, time series, embeddings, recommender systems.
 
-📩 **Let’s Connect!**\\
-You’ll find links to my work, social profiles, and email on this page. Feel free to reach out I’d love to connect and collaborate!
+Product-Focused ML: System Design, Latency-aware modeling, experimentation frameworks, metrics alignment.
+
+ML Engineering: Model deployment (batch & real-time), APIs, pipelines, CI/CD, monitoring.
+
+Applied Research: Benchmarking, reading & adapting & publishing academic papers / technical blogs, prototyping SOTA methods.
+
+Tools & Ecosystem: Python, PyTorch/Tensorflow, scikit-learn, Airflow, FastAPI, Docker, MLflow, Spark, AWS.
